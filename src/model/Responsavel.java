@@ -1,6 +1,5 @@
-package main;
+package model;
 
-import model.Aluno;
 import observer.Evento;
 import observer.Observer;
 import observer.Sujeito;

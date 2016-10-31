@@ -3,7 +3,6 @@ package model;
 import java.util.ArrayList;
 import java.util.List;
 
-import main.Responsavel;
 import observer.Evento;
 import observer.Observer;
 

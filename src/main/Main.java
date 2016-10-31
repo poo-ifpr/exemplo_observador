@@ -2,6 +2,7 @@ package main;
 
 import model.Aluno;
 import model.Patrocinador;
+import model.Responsavel;
 import model.SecaoPedagogica;
 
 public class Main {
